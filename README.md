@@ -1,5 +1,28 @@
-# Hi, I am Ashkan 👋 👨‍💻 
 ![](https://github.com/ashgozli/ashgozli/blob/main/Lets%20Code%20Banner.jpg)
 
-I am junior software engineer who is passionate about making software that makes the world a better place! 
+## Hi, I am Ashkan 👋 👨‍💻 
 
+🌱 I am currently learning Full-Stack Web development! 
+
+💚 I am passionate about Machine Learning, Deep Learning, & Data Science!  
+
+🔭 I am currently working on some cool stuff! 😉 
+
+## Skills & Experience 
+
+🐍 Python (Machine Learning)
+
+⛓️ Solidity
+
+💻 Java , SQL
+
+🍃 Spring 
+
+## Good to Know 😎
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashgozli&show_icons=true&theme=merko" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashgozli&langs_count=8&theme=merko" />
+</a>
