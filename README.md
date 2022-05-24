@@ -24,5 +24,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashgozli&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashgozli&langs_count=8&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashgozli&layout=compact&theme=merko" />
 </a>
