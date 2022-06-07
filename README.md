@@ -4,7 +4,7 @@
 
 🌱 I am currently learning Full-Stack Web development! 
 
-💚 I am passionate about Machine Learning, Deep Learning, & Data Science!  
+💚 I am passionate about Machine Learning and Blockchain Development!  
 
 🔭 I am currently working on some cool stuff! 😉 
 
