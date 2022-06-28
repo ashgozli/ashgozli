@@ -2,7 +2,7 @@
 
 ## Hi, I am Ashkan 👋 👨‍💻 
 
-🌱 I am currently learning Full-Stack Web development! 
+🌱 I am currently learning Android development! 
 
 💚 I am passionate about Machine Learning and Blockchain Development!  
 
