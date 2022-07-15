@@ -16,7 +16,7 @@
 
 💻 Java , SQL
 
-🍃 Spring 
+🍃 Kotlin , Spring
 
 ## Stats 🔥
 
