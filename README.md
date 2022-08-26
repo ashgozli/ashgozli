@@ -1,4 +1,3 @@
-![](https://github.com/ashgozli/ashgozli/blob/main/Lets%20Code%20Banner.jpg)
 
 ## Hi, I am Ashkan 👋 👨‍💻 
 
