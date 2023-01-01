@@ -11,7 +11,7 @@
 
 🐍 Python (Machine Learning)
 
-⛓️ Solidity
+⚛️ ReactJS
 
 💻 Java , SQL
 
