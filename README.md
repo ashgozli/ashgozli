@@ -1,7 +1,7 @@
 
 ## Hi, I am Ashkan 👋 👨‍💻 
 
-🌱 I am currently learning Android development! 
+🌱 I am currently learning Full-Stack and Android development! 
 
 💚 I am passionate about Machine Learning and Blockchain Development!  
 
@@ -11,7 +11,7 @@
 
 🐍 Python (Machine Learning)
 
-⚛️ ReactJS
+⚛️ ReactJS, React Native
 
 💻 Java , SQL
 
