@@ -5,7 +5,9 @@
 
 💚 I am passionate about Machine Learning and Blockchain Development!  
 
-🔭 I am currently working on some cool stuff! 😉 
+🔭 I am currently working on some cool stuff at [Google Developer's Student Club] at University of British Columbia! 😉 
+
+[Google Developer's Student Club]: https://ubcdsc.com/
 
 ## Skills & Experience 😎
 
