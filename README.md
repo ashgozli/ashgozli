@@ -1,5 +1,5 @@
 
-## Hi, I am Ashkan 👋 👨‍💻 
+## Hi, I am Ash 👋 👨‍💻 
 
 🌱 I am currently learning Full-Stack and Android development! 
 
